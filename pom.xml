@@ -116,7 +116,7 @@ because we want to be to able to execute mvn sonar:sonar without passing a profi
                     </execution>
                 </executions>
             </plugin>
-            <!-- change.. -->
+            
             <build>
 		<plugins>
 			<plugin>
